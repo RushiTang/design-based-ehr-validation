@@ -1,0 +1,8 @@
+# Private analytic inputs and derived patient-level validation records
+input/analytic_cohort.csv
+input/algorithm_predictions.csv
+stage1_validation_outputs/
+stage2_validation_outputs/
+multi_endpoint_validation_outputs*/
+outputs_*/
+

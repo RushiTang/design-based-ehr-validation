@@ -1,0 +1,26 @@
+# R session artifacts
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+Rplots.pdf
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Derived outputs from either component
+**/outputs/
+**/outputs_*/
+**/smoke_outputs/
+**/smoke_figures/
+**/figures/
+**/stage1_validation_outputs/
+**/stage2_validation_outputs/
+**/multi_endpoint_validation_outputs*/
+
+# Potentially sensitive analysis inputs
+**/input/analytic_cohort.csv
+**/input/algorithm_predictions.csv
